@@ -1,7 +1,7 @@
 {
-  "name": "mtx-bot",
+  "name": "Zero-Bot",
   "version": "1.0.1",
-  "description": "A Simple MTX-BOT for starting a Messenger chatbot.",
+  "description": "A Dedicated Zero-Bot for OtakuVerse Messenger Group.",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,11 +16,11 @@
     "CatalizCS",
     "Disme-Bot",
     "usePrefix",
-    "MrTomXxX",
-    "MrTomXxX"
+    "AceZero",
+    "LoliSenpai"
   ],
   "license": "GPL-3.0",
-  "author": "MrTomXxX",
+  "author": "Ace Zero",
   "dependencies": {
     "@distube/ytdl-core": "^4.13.3",
     "aes-js": "^3.1.2",
@@ -58,12 +58,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MrT0mX/MTX-BOT.git"
+    "url": "https://github.com/azimkhan0/ZERO-BOT-2.0.git"
   },
   "bugs": {
     "url": "https://github.com/MrT0mX/MTX-BOT/issues"
   },
-  "homepage": "https://github.com/MrT0mX/MTX-BOT#readme",
+  "homepage": "https://github.com/azimkhan0/ZERO-BOT-2.0?tab=readme-ov-file#readme",
   "devDependencies": {
     "@babel/cli": "^7.23.9",
     "@babel/core": "^7.24.0",
